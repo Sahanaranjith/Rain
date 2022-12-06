@@ -7,6 +7,7 @@ yellow
 dark yellow
 Unicorn
 white
+Indigo
 Pink
 black
 This are colors of "Rainbow and Unicorn"
