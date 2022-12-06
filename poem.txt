@@ -5,5 +5,6 @@ red
 green
 yellow
 white
+Pink
 black
 This are colors of "Rainbow"
