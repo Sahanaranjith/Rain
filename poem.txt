@@ -4,6 +4,7 @@ orange
 red
 green
 yellow
+dark yellow
 white
 Pink
 black
